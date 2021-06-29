@@ -15,7 +15,7 @@ Contact us:  <a_bavand@encs.concordia.ca>, <peter.rigby@concordia.ca>
 
 <code> docker build -t dynamicbatching .</code>
 
-In which "rq1and" is the name of the docker image
+In which "dynamicbatching" is the name of the docker image
 
 5. After completing the build process, run the following command, with project ID
 
